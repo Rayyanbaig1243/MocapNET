@@ -1,7 +1,6 @@
 FORTH & END-USER LICENSE AGREEMENT
 for the
 FORTH-ICS MOCAPNET LIBRARY
-
 PLEASE READ THE FOLLOWING CAREFULLY BEFORE USING:   
 By using  this hereby licensed to You product you expressly acknowledge and agree, on your own behalf as an individual, and on behalf of your employer or another entity which has not yet done so (collectively "You" or "Your"), that You are entering into a legal binding license agreement with FORTH ("FORTH"), have full authority to bind such employer or other entity with this License Agreement, and have understood and agree to comply with the terms & conditions of this License Agreement below (hereafter "Terms", "License Agreement").  You hereby waive any applicable rights to requirements for an original (non-electronic) signature or delivery or retention of non-electronic records, to the extent permitted under applicable law, customs & codes of practice.
 
